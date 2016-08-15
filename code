@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>paragraph in newspaper</title>
+    <style>
+        .first,.second,.third,.fourth{
+            width:200px;
+            float:left;
+            margin:40px;
+            text-align:justify;
+        }
+        </style>
+</head>
+<body>
+    
+    <div class="first">
+        <h1>paragraph"1"</h1>
+        <p>This short essay on Newspaper is divided into a brief introduction, its classification, advantages, disadvantages and conclusion.</p>
+        <p>The newspaper is a necessity in modern life. It is now printed in almost all languages and in all countries of the world.</p>
+        <p>It gives us news of what is happening in the world. We get various information relating to politics, religion, economy, society, movies, food, etc. from the newspaper.</p>
+        <p>Formerly newspapers contained only news. But now they contain not only news but also views on various subjects. Thus, now, there are various classes of papers. They can be classified according to the number of times they appear in a year. Some are printed daily, some twice in a week, some weekly, some fortnightly, and some monthly</p>
+    </div>
+    <div class="second">
+        <h2>paragraph"2"</h2>
+        <p>This short essay on Newspaper is divided into a brief introduction, its classification, advantages, disadvantages and conclusion.</p>
+        <p>The newspaper is a necessity in modern life. It is now printed in almost all languages and in all countries of the world.</p>
+        <p>It gives us news of what is happening in the world. We get various information relating to politics, religion, economy, society, movies, food, etc. from the newspaper.</p>
+        <p>Formerly newspapers contained only news. But now they contain not only news but also views on various subjects. Thus, now, there are various classes of papers. They can be classified according to the number of times they appear in a year. Some are printed daily, some twice in a week, some weekly, some fortnightly, and some monthly</p>
+        <div class="third">
+            <h3>paragraph"3"</h3>
+        <p>This short essay on Newspaper is divided into a brief introduction, its classification, advantages, disadvantages and conclusion.</p>
+        <p>The newspaper is a necessity in modern life. It is now printed in almost all languages and in all countries of the world.</p>
+        <p>It gives us news of what is happening in the world. We get various information relating to politics, religion, economy, society, movies, food, etc. from the newspaper.</p>
+        <p>Formerly newspapers contained only news. But now they contain not only news but also views on various subjects. Thus, now, there are various classes of papers. They can be classified according to the number of times they appear in a year. Some are printed daily, some twice in a week, some weekly, some fortnightly, and some monthly</p>
+    </div>
+     <div class="fourth">
+        <h4>paragraph"4"</h4>
+        <p>This short essay on Newspaper is divided into a brief introduction, its classification, advantages, disadvantages and conclusion.</p>
+        <p>The newspaper is a necessity in modern life. It is now printed in almost all languages and in all countries of the world.</p>
+        <p>It gives us news of what is happening in the world. We get various information relating to politics, religion, economy, society, movies, food, etc. from the newspaper.</p>
+        <p>Formerly newspapers contained only news. But now they contain not only news but also views on various subjects. Thus, now, there are various classes of papers. They can be classified according to the number of times they appear in a year. Some are printed daily, some twice in a week, some weekly, some fortnightly, and some monthly</p>
+    </div>
+</body>
+</html>
